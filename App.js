@@ -1,5 +1,5 @@
-import Board from './tic'
-import Game from './tic'
+import Board from './src/tic'
+import Game from './src/tic'
 
 function App() {
   return (
